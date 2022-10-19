@@ -3,4 +3,4 @@
  * @author: Mario
  */
 
-(a,b) => {a+b };
+let Sumar=(a,b) => {a+b };
